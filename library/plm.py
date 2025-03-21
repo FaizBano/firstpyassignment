@@ -65,6 +65,8 @@ def main():
     st.sidebar.header("About Me 👋")
     
     try:
+        st.sidebar.image("pic1.png", caption="Faiz Bano Frontend Developer", use_column_width=True)
+
         image = Image.open('images/pic1.png')  # Replace with your image path
         st.sidebar.image(image, caption="Faiz Bano Frontend Developer", use_column_width=True)
     except:
