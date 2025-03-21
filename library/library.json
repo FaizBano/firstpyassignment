@@ -1,0 +1,58 @@
+[
+    {
+        "title": "shahab Name",
+        "author": "Qudratullah Shahab",
+        "year": 2003,
+        "genre": "Biography",
+        "read_status": true
+    },
+    {
+        "title": "shahab Name",
+        "author": "Qudratullah Shahab",
+        "year": 2003,
+        "genre": "Biography",
+        "read_status": true
+    },
+    {
+        "title": "Bikhre Moti",
+        "author": "Hazrat Molana Muhammad Younus Pananpuri",
+        "year": 2016,
+        "genre": "Islamic Ideology",
+        "read_status": true
+    },
+    {
+        "title": "Baang e dra",
+        "author": "Drl Allama Muhammad Iqbal",
+        "year": 1924,
+        "genre": "poetery",
+        "read_status": true
+    },
+    {
+        "title": "Daughter of the East",
+        "author": "Benazir Bhutto",
+        "year": 1988,
+        "genre": "Auto Bio Graphy of Banazir's Plitical lige",
+        "read_status": false
+    },
+    {
+        "title": "To kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Racism, Justice, and Morality",
+        "read_status": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian Society, Government Surveillance, and Oppression",
+        "read_status": false
+    },
+    {
+        "title": "Automate the Boring Stuff with Python",
+        "author": " Al Sweiga",
+        "year": 2015,
+        "genre": "Programming, Automation, Educational",
+        "read_status": true
+    }
+]
